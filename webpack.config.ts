@@ -146,7 +146,7 @@ export default <Configuration>{
           new MiniCSSExtractPlugin({
             filename: devMode ? '[name].css' : '[name].[contenthash].css',
             chunkFilename: devMode ? '[name].css' : '[name].[contenthash].css',
-            esModule: true,
+            // esModule: true,
           }),
           new OptimzeCSSAssetsPlugin(),
         ]),
