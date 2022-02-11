@@ -34,7 +34,7 @@
     "fork-ts-checker-webpack-plugin": "^5.2.1",
     "html-webpack-plugin": "^4.5.0",
     "mini-css-extract-plugin": "^1.2.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "postcss": "^8.1.6",
